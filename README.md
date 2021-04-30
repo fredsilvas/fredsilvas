@@ -41,7 +41,7 @@ Some of my experiences:
 
 🧰 Tech Stack
 
-![image](https://user-images.githubusercontent.com/18680281/116700813-9209af80-a99d-11eb-9b0c-1d2bb5fbb3de.png)
+<img src="https://cdn.worldvectorlogo.com/logos/terraform-enterprise.svg" alt="Terraform Logo" width="50" height="50"/>
 
 
 ---
