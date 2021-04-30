@@ -23,7 +23,7 @@ Some of my experiences:
 
 🧰 Tech Stack
 
-<img src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" alt="Linux Logo" width="50" height="50"/>     <img src="https://cdn.worldvectorlogo.com/logos/terraform-enterprise.svg" alt="Terraform Logo" width="50" height="50"/>     <img src="https://cdn.worldvectorlogo.com/logos/hashicorp-packer.svg" alt="Packer Logo" width="50" height="50"/>     <img src="https://cdn.worldvectorlogo.com/logos/bash-1.svg" alt="Bash Logo" width="50" height="50"/>     <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="Bash Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" alt="Linux Logo" width="50" height="50"/>          <img src="https://cdn.worldvectorlogo.com/logos/terraform-enterprise.svg" alt="Terraform Logo" width="50" height="50"/>          <img src="https://cdn.worldvectorlogo.com/logos/hashicorp-packer.svg" alt="Packer Logo" width="50" height="50"/>          <img src="https://cdn.worldvectorlogo.com/logos/bash-1.svg" alt="Bash Logo" width="50" height="50"/>          <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="Bash Logo" width="50" height="50"/>
 
 ---
 
