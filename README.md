@@ -41,7 +41,16 @@ Some of my experiences:
 
 🧰 Tech Stack
 
+<img src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" alt="Linux Logo" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/terraform-enterprise.svg" alt="Terraform Logo" width="50" height="50"/>
-
+<img src="https://cdn.worldvectorlogo.com/logos/hashicorp-packer.svg" alt="Packer Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/bash-1.svg" alt="Bash Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="Bash Logo" width="50" height="50"/>
 
 ---
+
+## &#x1f4c8; My GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fredsilvas&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=fredsilvas&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
