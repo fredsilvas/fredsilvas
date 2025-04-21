@@ -11,7 +11,7 @@ Some of my experiences:
 - Infrastructure as Code: Terraform, Packer;
 - Application migration to Cloud;
 - Datacenter management;
-- Virtualization: VMWare;
+- Virtualization: VMWare, OpenShift;
 - Operational Systems: Linux, Microsoft;
 - Web Related Services: DNS, Varnish, Apache, NGINX, HAproxy;
 - User Related Services: Domain Control, User Administration;
